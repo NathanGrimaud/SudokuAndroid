@@ -6,6 +6,7 @@ Propose 3 niveaux de difficultée contenant chacun 10 000 niveaux.
 
 A l'heure actuelle le jeu est tout a fait jouable. 
 
+L'aaplication a été testée sur Nexsus 5x et Xiaomi mi5s
 ## TODO : 
 
 * Base de donnée SQLite pour stocker les parties en cours
